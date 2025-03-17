@@ -2,7 +2,8 @@ module.exports = {
   env: {
     browser: true,
     es2021: true,
-    node: true
+    node: true,
+    NEXT_PUBLIC_CLARITY_ID: ""
   },
   extends: [
     'plugin:react/jsx-runtime',

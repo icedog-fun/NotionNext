@@ -104,6 +104,7 @@ const SEO = props => {
         <title>{title}</title>
         <meta name='theme-color' content={BACKGROUND_DARK}/>
         <meta name="msvalidate.01" content="6BFDD8A06AB59C4C82E7D9C71B5DFCFD"/>
+        <meta name="baidu-site-verification" content="codeva-JRPQUU8zU0"/>
         <meta
             name='viewport'
             content='width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0'
